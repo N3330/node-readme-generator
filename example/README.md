@@ -1,5 +1,5 @@
-# stuff
- ![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-lightgreen)
+# node readme generator
+ ![MIT](https://img.shields.io/badge/License-MIT-blue)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -9,21 +9,24 @@
   * [Questions](#questions)
 
   ## Description
-  No description
+  creates read me in the console
 
   ## Installation
-  be vareufl
+  npm install
 
   ## Usage
-  useless
+  with ease
+
+  ## License
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## Contributing
   github
 
   ## Tests
-  undefined
+  none
 
 ## Questions
-If you have any questions, please email me at miami.james@james.com or view my repository at https://github.com/n3330?tab=repositories
+If you have any questions, please email me at miami.jamesg or view my repository at https://github.com/n3330?tab=repositories
 
 
