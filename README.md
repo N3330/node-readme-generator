@@ -15,3 +15,4 @@ Created a command-line application that dymanically generates a professial READM
 - [Inquirer package](https://www.npmjs.com/package/inquirer)
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 - [Repository](https://github.com/N3330/node-readme-generator)
+- [Walkthrough Video](https://drive.google.com/file/d/1oQYaYbJu-7GqXu7pDrpn9HtuG7L4Wfj1/view?usp=sharing)
