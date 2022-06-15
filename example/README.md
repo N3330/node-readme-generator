@@ -1,5 +1,5 @@
 # node readme generator
- ![MIT](https://img.shields.io/badge/License-MIT-blue)
+ ![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-lightgreen)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -9,16 +9,16 @@
   * [Questions](#questions)
 
   ## Description
-  creates read me in the console
+  It automates creating a readme using the console intalling inquirer and fs
 
   ## Installation
-  npm install
+  npm install 
 
   ## Usage
-  with ease
+  carefully with ease
 
   ## License
-  [MIT](https://opensource.org/licenses/MIT)
+  [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
   ## Contributing
   github
@@ -27,6 +27,6 @@
   none
 
 ## Questions
-If you have any questions, please email me at miami.jamesg or view my repository at https://github.com/n3330?tab=repositories
+If you have any questions, please email me at miami.james@james.com or view my repository at https://github.com/n3330?tab=repositories
 
 
